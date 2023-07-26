@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0px;
+}
+.contain {
+  background: #f55a5a;
+  padding: 20px 0px 19px 0px;
+}
+.contain > img {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.contain > h6 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 18.461px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -1.085px;
+}
+.image > img {
+  border-radius: 5px;
+  width: 295px;
+  height: 358px;
+  flex-shrink: 0;
+}
+.icon > img {
+  width: 13px;
+  height: 20.545px;
+  flex-shrink: 0;
+}
+.icon > p {
+  color: #918e9b;
+  font-family: Inter;
+  font-size: 20.24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: underline;
+}
